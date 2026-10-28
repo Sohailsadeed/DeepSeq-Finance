@@ -59,4 +59,3 @@ results/models/
 
 # Streamlit local settings
 .streamlit/secrets.toml
-
